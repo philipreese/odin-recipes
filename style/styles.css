@@ -1,0 +1,33 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+  background-color: #a79a9d;
+  color: #794e41;
+  text-align: center;
+}
+
+a {
+  color: #342427;
+}
+
+h1 {
+  color: #d0503f;
+  font-size: 52px;
+}
+
+h1 > a {
+  text-decoration: none;
+  color: #d0503f;
+}
+
+ul {
+  list-style-position: inside;
+  padding: 0;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 24px;
+}
